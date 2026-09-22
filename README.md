@@ -36,7 +36,7 @@ The complete workflow follows these steps:
 
 ### Architecture / Workflow
 
-![AI Recruitment Automation Workflow]((https://github.com/MohamedZineddineRguez/AI-recruitment-automation/blob/692edf4dcfa8007a9678f2651cff9561d26db25a/assets/first%20workflow%20n8n.png))
+![AI Recruitment Automation Workflow](https://github.com/MohamedZineddineRguez/AI-recruitment-automation/blob/6c43eb3454b6ba21ae551f785cd21298efeca921/assets/first%20workflow%20n8n.png)
 
 ## ✨ Key Features
 
